@@ -1,7 +1,7 @@
 ### Hi there,I'm Aman Ali 🤙🤙
 
 - 🔭 I’m currently working on MERN stack.
-- 🌱 I’m currently learning graphql.
+- 🌱 I’m currently learning reactJs.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with cloud computing.
 - 💬 Ask me about Restapi,tech related.
