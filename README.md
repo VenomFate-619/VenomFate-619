@@ -9,4 +9,6 @@
 - ⚡ Fun fact: Black apples exist.
 
 ![Info](https://github-readme-stats.vercel.app/api?username=VenomFate-619&show_icons=true&theme=radical)
+<br/>
+![Info](https://visitor-badge.laobi.icu/badge?page_id=VenomFate-619.VenomFate-619)
 
