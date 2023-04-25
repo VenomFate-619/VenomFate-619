@@ -8,7 +8,14 @@
 - 📫 How to reach me: [@insta](Instagram.com/ama_n169)  [@linkendin](https://www.linkedin.com/in/syed-aman-ali-1900/).
 - ⚡ Fun fact: Black apples exist.
 
-![Info](https://github-readme-stats.vercel.app/api?username=VenomFate-619&show_icons=true&theme=radical)
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/VenomFate-619/contributions?format=svg" width="350" />
+    </a>
+</p>
+
+
 <br/>
+
 ![Info](https://visitor-badge.laobi.icu/badge?page_id=VenomFate-619.VenomFate-619)
 
